@@ -7,6 +7,12 @@ A modern React Native mobile application for sports enthusiasts to discover, cre
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-3178C6?style=flat-square&logo=typescript)
 ![NativeWind](https://img.shields.io/badge/NativeWind-4.2.1-06B6D4?style=flat-square&logo=tailwindcss)
 
+## 🎬 Demo
+
+Watch a short walkthrough of the app:
+
+[![Sportie Demo](https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=99BpnFjTAiQ)
+
 ## ✨ Features
 
 ### 🔐 Authentication
